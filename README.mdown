@@ -2,4 +2,5 @@ This is a fork of adactio's Pattern Primer (https://github.com/adactio/Pattern-P
 
 The idea is to have a small, atomic markup snippet library where elements are styled from the content out. 
 
-These patterns are also part of the One Web Boilerplate: https://github.com/akikoo/one-web-boilerplate.
+These patterns are also part of the One Web Boilerplate (https://github.com/akikoo/one-web-boilerplate), 
+where the snippets are included with Apache Server Side Includes, instead of PHP.
