@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<head>
+	<meta charset="utf-8">
+	<title>Pattern Primer</title>
+	<link rel="stylesheet" href="global.css">
+</head>
+<body>
+	
+<!-- Headings 
+**************************************************************************** -->
+<!--#include virtual="./patterns/heading-1.html" -->
+<!--#include virtual="./patterns//heading-2.html" -->
+<!--#include virtual="./patterns//heading-3.html" -->
+<!--#include virtual="./patterns//heading-4.html" -->
+<!--#include virtual="./patterns//heading-5.html" -->
+<!--#include virtual="./patterns//heading-6.html" -->
+
+
+<!-- Text 
+**************************************************************************** -->
+<!--#include virtual="./patterns//text.html" -->
+
+
+<!-- Blockquotes 
+**************************************************************************** -->
+<!--#include virtual="./patterns//blockquote.html" -->
+
+
+<!-- Form elements 
+**************************************************************************** -->
+<!--#include virtual="./patterns//form-buttons.html" -->
+<!--#include virtual="./patterns//form-checkbox.html" -->
+<!--#include virtual="./patterns//form-email.html" -->
+<!--#include virtual="./patterns//form-number.html" -->
+<!--#include virtual="./patterns//form-select.html" -->
+<!--#include virtual="./patterns//form-text.html" -->
+<!--#include virtual="./patterns//form-textarea.html" -->
+<!--#include virtual="./patterns//form-url.html" -->
+
+
+<!-- Lists 
+**************************************************************************** -->
+<!--#include virtual="./patterns//list-ordered.html" -->
+<!--#include virtual="./patterns//list-unordered.html" -->
+
+
+<!-- Definition Lists 
+**************************************************************************** -->
+<!--#include virtual="./patterns//list-definition.html" -->
+
+
+<!-- Pagination 
+**************************************************************************** -->
+<!--#include virtual="./patterns//pagination.html" -->
+<!--#include virtual="./patterns//pagination-first.html" -->
+<!--#include virtual="./patterns//pagination-last.html" -->
+
+
+<!-- Feedback 
+**************************************************************************** -->
+<!--#include virtual="./patterns//feedback.html" -->
+<!--#include virtual="./patterns//feedback-error.html" -->
+
+
+<!-- Tables
+**************************************************************************** -->
+<!--#include virtual="./patterns//table.html" -->
+
+
+<!-- Preformatted
+**************************************************************************** -->
+<!--#include virtual="./patterns//preformatted.html" -->
+
+</body>
+</html>
