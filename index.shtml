@@ -21,6 +21,30 @@
 <!--#include virtual="./patterns//text.html" -->
 
 
+<!-- Additional text-level semantics 
+**************************************************************************** -->
+<!--#include virtual="./patterns/text-small.html" -->
+<!--#include virtual="./patterns/text-s.html" -->
+<!--#include virtual="./patterns/text-cite.html" -->
+<!--#include virtual="./patterns/text-dfn.html" -->
+<!--#include virtual="./patterns/text-abbr.html" -->
+<!--#include virtual="./patterns/text-data.html" -->
+<!--#include virtual="./patterns/text-time.html" -->
+<!--#include virtual="./patterns/text-code.html" -->
+<!--#include virtual="./patterns/text-var.html" -->
+<!--#include virtual="./patterns/text-samp.html" -->
+<!--#include virtual="./patterns/text-kbd.html" -->
+<!--#include virtual="./patterns/text-sub.html" -->
+<!--#include virtual="./patterns/text-sup.html" -->
+<!--#include virtual="./patterns/text-i.html" -->
+<!--#include virtual="./patterns/text-b.html" -->
+<!--#include virtual="./patterns/text-u.html" -->
+<!--#include virtual="./patterns/text-mark.html" -->
+<!--#include virtual="./patterns/text-ruby.html" -->
+<!--#include virtual="./patterns/text-bdi.html" -->
+<!--#include virtual="./patterns/text-bdo.html" -->
+
+
 <!-- Blockquotes 
 **************************************************************************** -->
 <!--#include virtual="./patterns//blockquote.html" -->
