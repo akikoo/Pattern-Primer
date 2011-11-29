@@ -5,27 +5,50 @@
 	<link rel="stylesheet" href="global.css">
 </head>
 <body>
-	
+
+<!--****************************************************************************
+1) SECTIONS
+*****************************************************************************-->
+
 <!-- Headings 
 **************************************************************************** -->
 <!--#include virtual="./patterns/heading-1.html" -->
-<!--#include virtual="./patterns//heading-2.html" -->
-<!--#include virtual="./patterns//heading-3.html" -->
-<!--#include virtual="./patterns//heading-4.html" -->
-<!--#include virtual="./patterns//heading-5.html" -->
-<!--#include virtual="./patterns//heading-6.html" -->
+<!--#include virtual="./patterns/heading-2.html" -->
+<!--#include virtual="./patterns/heading-3.html" -->
+<!--#include virtual="./patterns/heading-4.html" -->
+<!--#include virtual="./patterns/heading-5.html" -->
+<!--#include virtual="./patterns/heading-6.html" -->
 
 
-<!-- Text 
-**************************************************************************** -->
-<!--#include virtual="./patterns//text.html" -->
 
 
-<!-- Additional text-level semantics 
-**************************************************************************** -->
+<!--****************************************************************************
+2) GROUPING CONTENT
+*****************************************************************************-->
+
+<!--#include virtual="./patterns/text.html" -->
+<!--#include virtual="./patterns/hr.html" -->
+<!--#include virtual="./patterns/preformatted.html" -->
+<!--#include virtual="./patterns/blockquote.html" -->
+<!--#include virtual="./patterns/list-ordered.html" -->
+<!--#include virtual="./patterns/list-unordered.html" -->
+<!--#include virtual="./patterns/list-definition.html" -->
+<!--#include virtual="./patterns/figure.html" -->
+
+
+
+
+<!--****************************************************************************
+3) TEXT-LEVEL SEMANTICS 
+*****************************************************************************-->
+
+<!--#include virtual="./patterns/text-a.html" -->
+<!--#include virtual="./patterns/text-em.html" -->
+<!--#include virtual="./patterns/text-strong.html" -->
 <!--#include virtual="./patterns/text-small.html" -->
 <!--#include virtual="./patterns/text-s.html" -->
 <!--#include virtual="./patterns/text-cite.html" -->
+<!--#include virtual="./patterns/text-q.html" -->
 <!--#include virtual="./patterns/text-dfn.html" -->
 <!--#include virtual="./patterns/text-abbr.html" -->
 <!--#include virtual="./patterns/text-data.html" -->
@@ -45,55 +68,60 @@
 <!--#include virtual="./patterns/text-bdo.html" -->
 
 
-<!-- Blockquotes 
-**************************************************************************** -->
-<!--#include virtual="./patterns//blockquote.html" -->
 
 
-<!-- Form elements 
-**************************************************************************** -->
-<!--#include virtual="./patterns//form-buttons.html" -->
-<!--#include virtual="./patterns//form-checkbox.html" -->
-<!--#include virtual="./patterns//form-email.html" -->
-<!--#include virtual="./patterns//form-number.html" -->
-<!--#include virtual="./patterns//form-select.html" -->
-<!--#include virtual="./patterns//form-text.html" -->
-<!--#include virtual="./patterns//form-textarea.html" -->
-<!--#include virtual="./patterns//form-url.html" -->
+<!--****************************************************************************
+4) EDITS
+*****************************************************************************-->
+
+<!--#include virtual="./patterns/edits-ins.html" -->
+<!--#include virtual="./patterns/edits-del.html" -->
 
 
-<!-- Lists 
-**************************************************************************** -->
-<!--#include virtual="./patterns//list-ordered.html" -->
-<!--#include virtual="./patterns//list-unordered.html" -->
 
 
-<!-- Definition Lists 
-**************************************************************************** -->
-<!--#include virtual="./patterns//list-definition.html" -->
+<!--****************************************************************************
+5) TABULAR DATA
+*****************************************************************************-->
 
+<!--#include virtual="./patterns/table.html" -->
+
+
+
+
+<!--****************************************************************************
+6) FORMS
+*****************************************************************************-->
+
+<!--#include virtual="./patterns/form-buttons.html" -->
+<!--#include virtual="./patterns/form-checkbox.html" -->
+<!--#include virtual="./patterns/form-email.html" -->
+<!--#include virtual="./patterns/form-number.html" -->
+<!--#include virtual="./patterns/form-select.html" -->
+<!--#include virtual="./patterns/form-text.html" -->
+<!--#include virtual="./patterns/form-textarea.html" -->
+<!--#include virtual="./patterns/form-url.html" -->
+
+
+
+
+<!--****************************************************************************
+7) Custom UI elements 
+*****************************************************************************-->
 
 <!-- Pagination 
 **************************************************************************** -->
-<!--#include virtual="./patterns//pagination.html" -->
-<!--#include virtual="./patterns//pagination-first.html" -->
-<!--#include virtual="./patterns//pagination-last.html" -->
-
+<!--#include virtual="./patterns/pagination.html" -->
+<!--#include virtual="./patterns/pagination-first.html" -->
+<!--#include virtual="./patterns/pagination-last.html" -->
 
 <!-- Feedback 
 **************************************************************************** -->
-<!--#include virtual="./patterns//feedback.html" -->
-<!--#include virtual="./patterns//feedback-error.html" -->
+<!--#include virtual="./patterns/feedback.html" -->
+<!--#include virtual="./patterns/feedback-error.html" -->
 
 
-<!-- Tables
-**************************************************************************** -->
-<!--#include virtual="./patterns//table.html" -->
 
-
-<!-- Preformatted
-**************************************************************************** -->
-<!--#include virtual="./patterns//preformatted.html" -->
 
 </body>
 </html>
