@@ -51,7 +51,6 @@
 <!--#include virtual="./patterns/text-q.html" -->
 <!--#include virtual="./patterns/text-dfn.html" -->
 <!--#include virtual="./patterns/text-abbr.html" -->
-<!--#include virtual="./patterns/text-data.html" -->
 <!--#include virtual="./patterns/text-time.html" -->
 <!--#include virtual="./patterns/text-code.html" -->
 <!--#include virtual="./patterns/text-var.html" -->
